@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+## Hi, I am Zula, a Developer from Mongolia.
+<!--🚀
 **Munkhzulne/Munkhzulne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+## Quick Stats 🚀
+![Zula's GitHub stats](https://github-readme-stats-git-master-munkhzulnes-projects.vercel.app/api?username=munkhzulne&show_icons=true&theme=tokyonight) 
+[![GitHub Streak](https://github-readme-streak-stats-zula.vercel.app?user=munkhzulne&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+
