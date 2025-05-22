@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
  
 ## GitHub Stats 🚀
-![Zula's GitHub stats](https://github-readme-stats-git-master-munkhzulnes-projects.vercel.app/api?username=munkhzulne&show_icons=true&theme=tokyonight) 
+![Zula's GitHub stats](https://github-readme-stats-git-master-munkhzulnes-projects.vercel.app/api?username=munkhzulne&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-master-munkhzulnes-projects.vercel.app/api/top-langs/?username=munkhzulne&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Weekly Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=munkhzulne)](https://git.io/streak-stats)
